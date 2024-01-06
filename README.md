@@ -3,7 +3,7 @@
 - 👀 I am interested in developing games using the С++, as well as using the UE5.
 - 🌱 I am currently learning to use exactly these tools.
 
-- 💞️ I'm looking for opportunities to collaborate with other aspiring game developers who use Unreal Engine or mess with SFML code.
+- 💞️ I'm looking for opportunities to collaborate with other aspiring game developers.
 
 - 📫 Contact me:
 
